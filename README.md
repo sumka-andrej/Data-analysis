@@ -80,3 +80,10 @@ Recommendation: We recommend the Venture Loan segment as the primary target for 
 
 ###### **Link: https://public.tableau.com/views/StrategicAdCampaign/ExecutiveSummary?:language=en-US\&:sid=\&:redirect=auth\&publish=yes\&showOnboarding=true\&:display\_count=n\&:origin=viz\_share\_link**
 
+
+![Risk Profile Benchmark](png/Story%201.png)
+
+![Loan Product Selection: 25-30 Segment](png/Story%201%20(1).png)
+
+![Executive Summary: Marketing Strategy (Ages 25-30)](png/Story%201%20(2).png)
+
